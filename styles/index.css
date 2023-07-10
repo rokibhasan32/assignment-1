@@ -1,0 +1,71 @@
+*{
+    /* border: 1px solid red; */
+}
+body{
+     width: 1920px; 
+     height: 4867px;
+}
+
+/* header related style*/
+.header{
+background: #E554731a;
+}
+.banner{
+
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+    max-width: 500px; 
+    gap: 32px;
+
+ }
+.banner-title{
+    font-family: 'Open Sans', sans-serif;
+    font-family: Lato;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #272727;
+    width: 708px;
+    height: 288px;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+.banner-description{
+    display: flex;
+    flex-direction: column;
+flex-shrink: 0;
+width: 634px;
+height: 90px;
+color: #27272799;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 30px;
+}
+.btn-primary{
+    margin-bottom: 167;
+    border-radius: 8px;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+background: #E55473;
+color: white;
+border: white;
+}
+.profile-pic{
+    margin-right: 150px;
+    margin-bottom: 0px;
+    width: 635px;
+    height: 800px;
+    margin-bottom: 0px;
+    }
