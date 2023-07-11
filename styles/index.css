@@ -1,10 +1,9 @@
-*{
-    /* border: 1px solid red; */
-}
-body{
+/* {
+    /border: 1px solid red; 
+} */
+/* body{
      width: 1920px; 
-     height: 4867px;
-}
+} */
 
 /* header related style*/
 .header{
@@ -299,21 +298,21 @@ line-height: normal;
 }
 .background-flower-description{
     margin: 0px 605px 0px 605px ;
-width: 231px;
-height: 30px;
-color: #27272799;
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    width: 231px;
+    height: 30px;
+    color: #27272799;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 .background-flower-input{
     margin-left: 287px;
     margin-top: 44px;
     border-radius: 8px;
-background: #FFF;
+    background: #FFF;
     width: 700px;
     height: 64px;
 }
