@@ -132,7 +132,7 @@ background: #0597A026;
     border-radius: 300px 300px 0px 0px; 
 background: #477D1126;
 }
-/* skill imgage design */
+/* skill imgage style*/
 .skill-img1{
     margin: 110px 78px 0px 76px;   
     width: 310px;
@@ -151,7 +151,7 @@ margin: 67px 75px 0px 67px;
 height: 471px;
 flex-shrink: 0;
 }
-/* skill image name design */
+/* skill image name style */
 .skill-name{
     color: #272727;
     text-align: center;
@@ -190,7 +190,7 @@ background: #2727270D;
    font-weight: 600;
    line-height: 35px;
 }
-/* hot deal design */
+/* hot deal style*/
 .hot-deal{
     background: #E554730D;
     border-radius: 8px;
@@ -237,7 +237,7 @@ margin-left: 186px;
 #btn-primary-id{
     margin-left: 200px;
 }
-/* Instragram Design */
+/* Instragram style */
 .instragram-title{
     margin-left: 870px;
    margin-right: 870px;
@@ -274,4 +274,12 @@ line-height: 30px;
     margin-right: 240px;
     display: flex;
     gap: 24px;
+}
+/* Background flower section style */
+.background-flower{
+    background-image: url();
+    border-radius: 8px;
+    margin-top: 128px;
+    margin-left: 240px;
+    margin-right: 240px;
 }
