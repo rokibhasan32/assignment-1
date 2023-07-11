@@ -10,18 +10,20 @@ body{
 .header{
 background: #E554731a;
 }
+/* header banner style */
 .banner{
-
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+/* header content style */
 .banner-content{
     max-width: 500px; 
     gap: 32px;
 
  }
+ /* header title style */
 .banner-title{
     font-family: 'Open Sans', sans-serif;
     font-family: Lato;
@@ -37,35 +39,191 @@ background: #E554731a;
     line-height: normal;
     margin-bottom: 30px;
 }
+/* header description style */
 .banner-description{
     display: flex;
     flex-direction: column;
-flex-shrink: 0;
-width: 634px;
-height: 90px;
-color: #27272799;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
-margin-bottom: 30px;
+    flex-shrink: 0;
+    width: 634px;
+    height: 90px;
+    color: #27272799;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
 }
+/* header button style */
 .btn-primary{
     margin-bottom: 167;
     border-radius: 8px;
     display: inline-flex;
-padding: 20px 43px;
-align-items: flex-start;
-gap: 10px;
-background: #E55473;
-color: white;
-border: white;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    background: #E55473;
+    color: white;
+    border: white;
 }
+/* header profile pic style */
 .profile-pic{
     margin-right: 150px;
     margin-bottom: 0px;
     width: 635px;
     height: 800px;
     margin-bottom: 0px;
-    }
+}
+/* main related style */
+/* section title style */
+.section-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 24px;
+}
+/* section description style */
+.section-description{
+    margin-left: 663px;
+    margin-right: 663px;
+    text-align: center;
+    display: flex;
+    font-family: Lato;
+width: 594px;
+height: 60px;
+flex-direction: column;
+flex-shrink: 0;
+color:#27272799;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+/* section skill container */
+.skills-container{
+    display: flex;
+    gap: 24px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+/* skill box design */
+.skill-1{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+background: #A7216226;
+}
+.skill-2{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px; 
+background: #0597A026;
+}
+.skill-3{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px; 
+background: #477D1126;
+}
+/* skill imgage design */
+.skill-img1{
+    margin: 110px 78px 0px 76px;   
+    width: 310px;
+height: 428px;
+flex-shrink: 0;
+}
+.skill-img2{
+    margin: 117px 47px 51px 47px;
+    width: 370px;
+height: 370px;
+flex-shrink: 0;
+}
+.skill-img3{
+margin: 67px 75px 0px 67px;                
+    width: 314px;
+height: 471px;
+flex-shrink: 0;
+}
+/* skill image name design */
+.skill-name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;  
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+/* icon style */
+.icon-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 128px 240px;
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #2727270D;   
+}
+.icon-image{
+    margin-top: 86px;
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    margin-right: 232px;
+    margin-left: 185px;
+}.icon-heading{
+   margin-top: 24px; 
+   margin-left: 150px;
+   color:#272727CC;
+   font-family: Lato;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 35px;
+}
+/* hot deal design */
+.deal{
+    background: #E554730D;
+    border-radius: 8px;
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-title{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.banner-description{
+    display: flex;
+    text-align: center;
+    font-family: Lato;
+    width: 594px;
+    height: 60px;
+flex-direction: column;
+flex-shrink: 0;
+color: #27272799;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.deal-spancolor{
+    color: #E55473;
+}
+.deal-spanparagraph{
+    text-indent:50pxpx ;
+}
