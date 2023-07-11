@@ -56,8 +56,10 @@ background: #E554731a;
 }
 /* header button style */
 .btn-primary{
-    margin-bottom: 167;
+    margin-bottom: 167pxp;
     border-radius: 8px;
+    width: 150px;
+    height: 64px;
     display: inline-flex;
     padding: 20px 43px;
     align-items: flex-start;
@@ -277,27 +279,62 @@ line-height: 30px;
 }
 /* Background flower section style */
 .background-flower{
-    background-image: url('../Flower/Asset/');
-    border-radius: 8px;
-    margin-top: 128px;
-    margin-left: 240px;
-    margin-right: 240px;
-flex-shrink: 0;
-}
-/* footer style */
-.footer-content{
-    background: #111010;
-    text-align: center;
-    width: 1922px;
+    background-image:  url('../rectangle9.jpg');
+    margin: 128px 240px 0px 240px;
+    width: 1440px;
 height: 449px;
 flex-shrink: 0;
+}
+.background-flower-title{
+    padding: 122px 50px 0px 533px;
+    width: 373px;
+    height: 48px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.background-flower-description{
+    margin: 0px 605px 0px 605px ;
+width: 231px;
+height: 30px;
+color: #27272799;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.background-flower-input{
+    margin-left: 287px;
+    margin-top: 44px;
+    border-radius: 8px;
+background: #FFF;
+    width: 700px;
+    height: 64px;
+}
+/* footer style */
+.footer{
+    background: #111010;
+    width: 1922px;
+    height: 449px; 
+    margin-top: 128px;
+}
+.footer-content{
+    text-align: center;
+    flex-shrink: 0;
     margin-top: 128px;
 }
 .footer-titlecolor-shop{
     color: #FFF;
 }
 .footer-title{
-    margin: 128px 832px 24px 831px; 
+    margin: 0px 832px 24px 831px;
+padding-top: 128px;
     width: 259px;
     height: 58px;
     font-family: Lato;
