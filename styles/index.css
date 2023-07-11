@@ -1,13 +1,13 @@
 /* {
     /border: 1px solid red; 
 } */
-/* body{
+body{
      width: 1920px; 
-} */
+}
 
 /* header related style*/
 .header{
-background: #E554731a;
+    background: #E554731a;
 }
 /* header banner style */
 .banner{
@@ -79,13 +79,13 @@ background: #E554731a;
 /* section title style */
 .section-title{
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-margin-bottom: 24px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
 }
 /* section description style */
 .section-description{
@@ -94,15 +94,15 @@ margin-bottom: 24px;
     text-align: center;
     display: flex;
     font-family: Lato;
-width: 594px;
-height: 60px;
-flex-direction: column;
-flex-shrink: 0;
-color:#27272799;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    width: 594px;
+    height: 60px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color:#27272799;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 /* section skill container */
 .skills-container{
@@ -117,40 +117,40 @@ line-height: 30px;
     height: 538px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
-background: #A7216226;
+    background: #A7216226;
 }
 .skill-2{
     width: 464px;
     height: 538px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px; 
-background: #0597A026;
+    background: #0597A026;
 }
 .skill-3{
     width: 464px;
     height: 538px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px; 
-background: #477D1126;
+    background: #477D1126;
 }
 /* skill imgage style*/
 .skill-img1{
     margin: 110px 78px 0px 76px;   
     width: 310px;
-height: 428px;
-flex-shrink: 0;
+    height: 428px;
+    flex-shrink: 0;
 }
 .skill-img2{
     margin: 117px 47px 51px 47px;
     width: 370px;
-height: 370px;
-flex-shrink: 0;
+    height: 370px;
+    flex-shrink: 0;
 }
 .skill-img3{
-margin: 67px 75px 0px 67px;                
+    margin: 67px 75px 0px 67px;                
     width: 314px;
-height: 471px;
-flex-shrink: 0;
+    height: 471px;
+    flex-shrink: 0;
 }
 /* skill image name style */
 .skill-name{
@@ -159,10 +159,10 @@ flex-shrink: 0;
     font-family: Lato;
     font-size: 24px;
     font-style: normal;  
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 }
 /* icon style */
 .icon-container{
@@ -173,7 +173,7 @@ text-decoration-line: underline;
     height: 320px;
     flex-shrink: 0;
     border-radius: 8px;
-background: #2727270D;   
+    background: #2727270D;   
 }
 .icon-image{
     margin-top: 86px;
@@ -201,16 +201,16 @@ background: #2727270D;
     justify-content: space-between;
 }
 .hot-deal-container{
-margin-left: 210px;
+    margin-left: 210px;
 }
 .hot-deal-header{
     margin-left: 28px ;
     color: #272727;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 .hot-deal-description{
     display: flex;
@@ -218,22 +218,22 @@ line-height: normal;
     font-family: Lato;
     width: 594px;
     height: 60px;
-flex-direction: column;
-flex-shrink: 0;
-color: #27272799;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #27272799;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 .deal-spancolor{
     color: #E55473;
 }
 .hotdeal-image{
-margin-top: 100px;
-margin-bottom: 100px;
-margin-right: 359px;
-margin-left: 186px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 359px;
+    margin-left: 186px;
 }
 #btn-primary-id{
     margin-left: 200px;
@@ -241,17 +241,17 @@ margin-left: 186px;
 /* Instragram style */
 .instragram-title{
     margin-left: 870px;
-   margin-right: 870px;
+    margin-right: 870px;
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
     width: 180px;
     height: 48px;
-margin-bottom: 24px;
+    margin-bottom: 24px;
 }
 .instragram-description{
     margin-left: 663px;
@@ -259,15 +259,15 @@ margin-bottom: 24px;
     text-align: center;
     display: flex;
     font-family: Lato;
-width: 594px;
-height: 60px;
-flex-direction: column;
-flex-shrink: 0;
-color:#27272799;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    width: 594px;
+    height: 60px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color:#27272799;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 .instragram-container{
     background: #FFF;
@@ -276,25 +276,67 @@ line-height: 30px;
     display: flex;
     gap: 24px;
 }
+/* favourite section */
+.favourite-title{
+    margin-left: 870px;
+    margin-right: 870px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 180px;
+    height: 48px;
+    margin-bottom: 24px;
+}
+.favourite-description{
+    margin-left: 663px;
+    margin-right: 663px;
+    text-align: center;
+    display: flex;
+    font-family: Lato;
+    width: 594px;
+    height: 60px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color:#27272799;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.favourite-container{
+    background: antiquewhite;
+    margin-left: 240px;
+    margin-right: 240px;
+    display: flex;
+    gap: 24px;
+}
+.favourite-img{
+    width: 342px;
+    height: 356px;
+}
 /* Background flower section style */
 .background-flower{
     background-image:  url('../rectangle9.jpg');
     margin: 128px 240px 0px 240px;
     width: 1440px;
-height: 449px;
-flex-shrink: 0;
+    height: 449px;
+    flex-shrink: 0;
 }
 .background-flower-title{
     padding: 122px 50px 0px 533px;
     width: 373px;
     height: 48px;
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 .background-flower-description{
     margin: 0px 605px 0px 605px ;
@@ -333,7 +375,7 @@ line-height: normal;
 }
 .footer-title{
     margin: 0px 832px 24px 831px;
-padding-top: 128px;
+    padding-top: 128px;
     width: 259px;
     height: 58px;
     font-family: Lato;
@@ -348,16 +390,16 @@ padding-top: 128px;
     margin-bottom: 32px;
     display: flex;
     text-align: center;
-font-family: Lato;
+    font-family: Lato;
     width: 625px;
     height: 60px;
     flex-direction: column;
     flex-shrink: 0;
     color: #FFFFFFE5;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 .footer-description-lastpart{
     margin-left: 784px;
