@@ -277,9 +277,63 @@ line-height: 30px;
 }
 /* Background flower section style */
 .background-flower{
-    background-image: url();
+    background-image: url('../Flower/Asset/');
     border-radius: 8px;
     margin-top: 128px;
     margin-left: 240px;
     margin-right: 240px;
+flex-shrink: 0;
+}
+/* footer style */
+.footer-content{
+    background: #111010;
+    text-align: center;
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+    margin-top: 128px;
+}
+.footer-titlecolor-shop{
+    color: #FFF;
+}
+.footer-title{
+    margin: 128px 832px 24px 831px; 
+    width: 259px;
+    height: 58px;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-description{
+    margin-left: 648px;
+    margin-right: 649px;
+    margin-bottom: 32px;
+    display: flex;
+    text-align: center;
+font-family: Lato;
+    width: 625px;
+    height: 60px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFFFFFE5;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.footer-description-lastpart{
+    margin-left: 784px;
+    margin-right: 783px;
+    margin-bottom: 128px;
+    color: #FFFFFF66;
+    text-align: center;
+    font-family: Lato;
+    width: 355px;
+    height: 19px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
