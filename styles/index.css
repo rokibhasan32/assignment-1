@@ -191,7 +191,7 @@ background: #2727270D;
    line-height: 35px;
 }
 /* hot deal design */
-.deal{
+.hot-deal{
     background: #E554730D;
     border-radius: 8px;
     padding: 30px 30px 0px 150px;
@@ -199,7 +199,11 @@ background: #2727270D;
     align-items: center;
     justify-content: space-between;
 }
-.banner-title{
+.hot-deal-container{
+margin-left: 210px;
+}
+.hot-deal-header{
+    margin-left: 28px ;
     color: #272727;
 font-family: Lato;
 font-size: 40px;
@@ -207,7 +211,7 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 }
-.banner-description{
+.hot-deal-description{
     display: flex;
     text-align: center;
     font-family: Lato;
@@ -224,6 +228,43 @@ line-height: 30px;
 .deal-spancolor{
     color: #E55473;
 }
-.deal-spanparagraph{
-    text-indent:50pxpx ;
+.hotdeal-image{
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 359px;
+margin-left: 186px;
+}
+#btn-primary-id{
+    margin-left: 200px;
+}
+/* Instragram Design */
+.instragram-title{
+    margin-left: 870px;
+   margin-right: 870px;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    width: 180px;
+    height: 48px;
+margin-bottom: 24px;
+}
+.instragram-description{
+    margin-left: 663px;
+    margin-right: 663px;
+    text-align: center;
+    display: flex;
+    font-family: Lato;
+width: 594px;
+height: 60px;
+flex-direction: column;
+flex-shrink: 0;
+color:#27272799;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
 }
